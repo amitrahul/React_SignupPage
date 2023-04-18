@@ -1,0 +1,7 @@
+.body-data{
+    display: flex;
+    gap: 25px;
+    width : 1365px;
+    height: 588px;
+    margin-top: 80px;
+}

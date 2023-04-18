@@ -1,0 +1,21 @@
+.header-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header-subitem{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width : 500px;
+}
+.header-item > span{
+    width: 148px;
+    height: 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #004F95;
+}

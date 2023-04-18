@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    margion : 0;
+
+}
+
+.sign{
+    margin-top: 15px;
+
+}
+.signup{
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    margin-left: 130px;
+    font-weight: bold;
+
+}
+
+.signin-Container{
+    background: #F0F8FF;
+    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+    border-radius: 30px;
+    position: absolute;
+    width: 45%;
+    height: 588px;
+    padding: 0 50px;
+    margin-left: 675px;
+
+}
+
+/* span{
+    padding: 0 10px;
+} */
+
+button{
+    background: #004F95;
+    gap: 10px;   
+    width: 150%;
+    height: 52px;
+}
+
+.sigin-account{
+    display: flex;
+    flex-direction: column;
+    width: 68%;
+    height: 90%;
+    justify-content: space-around;
+}
+
+
+.field > label{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color : #2A2A2A;
+}
+
+.field > input{
+    height: 51px;
+    width: 522px;
+    left: 0px;
+    top: 33px;
+    border-radius: 5px;
+    padding: 12px 24px 12px 24px;
+
+}
+
+button{
+    height: 52px;
+    width: 522px;
+    left: 3202px;
+    top: -223px;
+    border-radius: 5px;
+    padding: 8px 238px 8px 238px;
+    background: #004F95;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+}
